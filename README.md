@@ -28,8 +28,8 @@ Not a course collector. I'm A builder.
 **Backend** · FastAPI · Django · Flask · Node.js · PostgreSQL  
 **Data** · Pandas · NumPy · Apache Airflow · AWS Glue · Power BI · Excel · tableau 
 **Cloud** · AWS (EC2 · ECS · Lambda · S3 · VPC · RDS · Glue · Athena)  
-**DevOps** · Docker · Terraform · GitHub Actions · Kubernetes · Jenkins 
-**Monitoring** · Prometheous · Grafana · Evidently AI 
+**DevOps** · Docker · Terraform · GitHub Actions · Kubernetes · Jenkins
+**Monitoring** · Prometheous · Grafana · Evidently AI
 **AIML** · Scikit-learn · PyTorch · Pinecone · pgventor · DVC · GitHub Agents · KubeFlow · LangChain  
 
 ---
