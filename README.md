@@ -2,10 +2,10 @@
 
 Fresher · B.Tech CSE 2025 · Hyderabad
 
-I build solutions end-to-end — with React frontends, Python backends, 
-cloud infrastructure on AWS, and devops automation or pipelines that actually run in production.
-ml model api wraping and ai integration seemlessly provisioned .
-Not a course collector. I'm A builder.
+I build **end-to-end systems** — from AI models to production infrastructure.  
+Focused on **AWS cloud architecture, DevOps automation, AI model deployment, monitoring, and MLOps pipelines**.
+
+Not a course collector. **I ship working systems.**
 
 ---
 
@@ -13,28 +13,34 @@ Not a course collector. I'm A builder.
 
 | Domain | Project | What it does | Stack |
 |---|---|---|---|
-|Fullstack + Cloud + DevOps | [SupplyChain Pro](https://supplychain-app-xi.vercel.app) | B2B platform — kitchen → supplier → vendor → delivery | React · FastAPI · AWS · Terraform |
-|FullStack + Data + AI ML + Cloud| [PulseGuard](https://github.com/Sriharshareddy6464) | Health telemetry pipeline · live on AWS ECS | Airflow · AWS Glue · S3 · Lambda · Docker |
-|FullStack + Data + AI ML + Cloud| [DeepSynth](https://github.com/Sriharshareddy6464) | Deepfake detection · ResNet + LSTM + audio analysis | PyTorch · OpenCV · HuggingFace · AWS |
-|Excel| [Social Media Analytics](https://github.com/Sriharshareddy6464/social_media_analytics) | PepsiCo campaign ROI · custom engagement uplift formula | Excel · Pivot Tables · Data Viz |
-|Cloud + DevOps | [Creorez](https://github.com/Sriharshareddy6464/doityourez/blob/main/devops/doc/architecture.md) | AI resume generator · user input → LaTeX → PDF | Node.js · Docker · AWS ECS · GitHub Actions |
+| AI + Computer Vision | [**DeepSynth**](https://github.com/Sriharshareddy6464/DeepSynth) | Deepfake detection using video and audio signal analysis | PyTorch · OpenCV · HuggingFace · AWS |
+| DevOps + Cloud | [**Creorez**](https://github.com/Sriharshareddy6464/creorez) | AI resume generator converting structured input to LaTeX PDF | Node.js · Docker · AWS ECS · GitHub Actions |
+| Fullstack + Cloud | [**SupplyChain App**](https://github.com/Sriharshareddy6464/supplychain_app/tree/dev) | Multi-role B2B platform connecting kitchens, suppliers, vendors, and delivery | React · FastAPI · AWS · Terraform |
+| AI + Computer Vision | [**VigilantiAI**](https://github.com/Sriharshareddy6464/vigilantiAI/tree/main) | Driver drowsiness detection using real-time camera monitoring | Python · OpenCV · CNN · PyTorch |
+| DevOps + Monitoring | [**PingWatch**](https://github.com/Sriharshareddy6464/pingwatch_alertbot) | Infrastructure uptime monitoring and alerting system | Python · Docker · Monitoring Stack |
+| AI + MLOps | [**RecurAI**](https://github.com/Sriharshareddy6464/recurAI) | Automated AI model retraining pipeline with monitoring triggers | Python · MLOps Pipeline · AWS |
 
 ---
 
 ## 🛠 Stack
 
-**Languages** · Python · JavaScript · TypeScript · SQL · Bash  
-**Frontend** · React · Next.js · Vite · TailwindCSS · Framer Motion  
-**Backend** · FastAPI · Django · Flask · Node.js · PostgreSQL  
-**Data** · Pandas · NumPy · Apache Airflow · AWS Glue · Power BI · Excel · tableau <br>
-**Cloud** · AWS (EC2 · ECS · Lambda · S3 · VPC · RDS · Glue · Athena)  <br>
-**DevOps** · Docker · Terraform · GitHub Actions · Kubernetes · Jenkins <br>
-**Monitoring** · Prometheous · Grafana · Evidently AI  <br>
-**AIML** · Scikit-learn · PyTorch · Pinecone · pgventor · DVC · GitHub Agents · KubeFlow · LangChain  
+**Languages** · Python · JavaScript · TypeScript · SQL · Bash  <br>
+
+**Frontend** · React · Next.js · Vite · TailwindCSS · Framer Motion  <br>
+
+**Backend** · FastAPI · Django · Flask · Node.js · PostgreSQL  <br>
+
+**Cloud Infrastructure** · AWS (Lambda · EC2 · ECS/EKS · VPC · S3 · RDS · IAM · SQS/SNS · cloudwatch)  <br>
+
+**DevOps** · Docker · Terraform · Kubernetes · GitHub Actions · Jenkins  <br>
+
+**Monitoring** · Prometheus · Grafana · Evidently AI  <br>
+
+**AI / MLOps** · lakeFS · Flyte · MLflow · LangGraph · BentoML · Deepchecks <br>
 
 ---
 
 ## 📬 Let's connect
 
-🌐 [adapalasriharshareddy.online](https://adapalasriharshareddy.online)  
+🌐 https://adapalasriharshareddy.online  
 📧 adapalasriharshareddy@gmail.com
