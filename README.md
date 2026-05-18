@@ -1,4 +1,4 @@
-# Sriharsha Reddy Adapala 👋
+# hi I'm Sriharsha Reddy Adapala 👋
 
 **AI Infrastructure Engineer | Cloud • DevOps • MLOps**  
 B.Tech CSE 2025 · Hyderabad, India
@@ -29,182 +29,261 @@ Current focus:
 
 ## Featured Projects
 
-### 🔧 ModelUp — AI Deployment Platform
+<table>
+<tr>
 
-CLI-based deployment platform that wraps HuggingFace models into FastAPI services and deployable Docker containers.
+<td width="33%" valign="top">
 
-**Stack**  
-Python · FastAPI · Docker · HuggingFace
+### 🔧 ModelUp
 
-**Focus**
+AI deployment platform for wrapping HuggingFace models into containerized APIs.
 
-- model wrapping automation
-- API endpoint generation
-- local inference interface
-- containerized deployment workflow
+**Tech**  
+Python · FastAPI · Docker
 
-**Lessons learned**
+**Highlights**
 
-The initial architecture exposed scaling and orchestration limitations, which pushed me toward studying production AI infrastructure patterns.
+• Model wrapping  
+• API generation  
+• Container deployment
 
-Repository:  
-https://github.com/Sriharshareddy6464/ai-infrastructure-platform
+🔗 [Repository](https://github.com/Sriharshareddy6464/ai-infrastructure-platform)
 
----
+</td>
 
-### 🏥 Doc on Call — Real-Time Consultation Platform
+<td width="33%" valign="top">
 
-Real-time doctor–patient communication platform using WebRTC and cloud deployment architecture.
+### 🏥 Doc on Call
 
-**Stack**  
-Next.js · AWS · Docker · WebRTC
+Real-time doctor–patient consultation platform using WebRTC.
 
-**Focus**
+**Tech**  
+Next.js · AWS · Docker
 
-- real-time communication
-- cloud deployment workflows
-- infrastructure design
-- low-latency systems
+**Highlights**
 
-Repository:  
-https://github.com/Sriharshareddy6464/Doctor-Patient-App
+• Real-time communication  
+• Cloud deployment  
+• Low latency workflows
 
----
+🔗 [Repository](https://github.com/Sriharshareddy6464/Doctor-Patient-App)
 
-### ⚙️ Madan — Inquiry Automation System
+</td>
 
-Business workflow system focused on inquiry handling, WhatsApp automation, and retrieval-assisted scheduling.
+<td width="33%" valign="top">
 
-**Stack**  
-FastAPI · n8n · LangChain · AWS
+### ⚙️ Madan
 
-**Current Work**
+Business inquiry automation and scheduling workflow system.
 
-- business website
-- WhatsApp workflow automation
-- scheduling pipeline
-- retrieval-assisted responses
+**Tech**  
+FastAPI · n8n · LangChain
 
-Repository:  
-Private repository — public case study coming soon
+**Highlights**
 
----
+• WhatsApp automation  
+• Scheduling workflows  
+• Retrieval-assisted responses
 
-### 🏭 Defect Detection — MLOps Pipeline
+🔒 Private — Case study coming soon
 
-Industrial defect detection workflow focused on dataset versioning, validation, experimentation, and model lifecycle management.
+</td>
 
-**Stack**  
-PyTorch · MLflow · AWS · Dataset Versioning
+</tr>
 
-**Focus**
+<tr>
 
-- dataset handling
-- validation workflow
-- model evaluation
-- retraining lifecycle
-- experimentation pipeline
+<td width="33%" valign="top">
 
-Repository:  
-https://github.com/Sriharshareddy6464/defect_detection
+### 🏭 Defect Detection
 
----
+Industrial MLOps workflow for dataset and model lifecycle management.
 
-### 🎭 DeepSynth — Deepfake Detection System
+**Tech**  
+PyTorch · MLflow · AWS
 
-Multimodal deepfake detection using video and audio analysis pipelines.
+**Highlights**
 
-**Stack**  
-PyTorch · OpenCV · HuggingFace · AWS
+• Validation pipeline  
+• Retraining workflow  
+• Experiment tracking
 
-**Focus**
+🔗 [Repository](https://github.com/Sriharshareddy6464/defect_detection)
 
-- video feature extraction
-- audio analysis
-- training workflow
-- model evaluation
+</td>
 
-Repository:  
-https://github.com/Sriharshareddy6464/DeepSynth
+<td width="33%" valign="top">
+
+### 🎭 DeepSynth
+
+Multimodal deepfake detection with video and audio analysis.
+
+**Tech**  
+PyTorch · OpenCV · HuggingFace
+
+**Highlights**
+
+• Video analysis  
+• Audio processing  
+• Evaluation workflow
+
+🔗 [Repository](https://github.com/Sriharshareddy6464/DeepSynth)
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🧠 Persona *(Building)*
+
+Production RAG system focused on deployment and observability.
+
+**Planned Tech**  
+LangChain · FastAPI · Redis
+
+**Planned**
+
+• PDF ingestion  
+• Hybrid retrieval  
+• Monitoring pipeline
+
+🚧 In active development
+
+</td>
+
+</tr>
+</table>
+
 
 ---
 
 ## Technical Skills
 
-### Languages
+<table>
+<tr>
 
-Python · JavaScript · SQL · Bash
+<td width="20%" valign="top">
 
----
+### 💻 Languages
 
-### Web Technologies
+- Python
+- JavaScript
+- SQL
+- Bash
 
-FastAPI · React · Next.js · Vite · TailwindCSS · PostgreSQL · REST APIs · Framer Motion
+</td>
 
----
+<td width="20%" valign="top">
 
-### Cloud Technologies
+### 🌐 Web Technologies
+
+- FastAPI
+- React
+- Next.js
+- PostgreSQL
+- REST APIs
+- TailwindCSS
+- Vite
+- Framer Motion
+
+</td>
+
+<td width="20%" valign="top">
+
+### ☁️ Cloud Technologies
 
 **Compute**  
-EC2 · ECS · EKS · Lambda · Docker
+EC2 · ECS · EKS · Lambda
 
-**Networking & Delivery**  
-VPC · API Gateway · Route 53 · Load Balancer · CloudFront · Nginx
+**Networking**  
+VPC · API Gateway  
+Route53 · Load Balancer  
+CloudFront · Nginx
 
 **Database & Storage**  
 RDS · PostgreSQL · S3
 
-**Caching & Performance**  
+**Caching**  
 Redis · ElastiCache
 
-**Security & Access**  
+**Messaging**  
+SQS · SNS
+
+**Security**  
 IAM · Security Groups
 
-**Distributed Systems & Scalability**  
-SQS · SNS · Auto Scaling · Event-driven workflows
+</td>
 
-**Monitoring & Observability**  
-CloudWatch · Prometheus · Grafana
+<td width="20%" valign="top">
 
-**Infrastructure & Automation**  
-Terraform · GitHub Actions · Kubernetes
+### ⚙️ Operations Technologies
 
+**Containers**  
+Docker · Kubernetes
+
+**Infrastructure**  
+Terraform
+
+**CI/CD**  
+GitHub Actions
+
+**Monitoring**  
+CloudWatch  
+Prometheus  
+Grafana
+
+**Scalability**  
+Auto Scaling  
+Event-driven workflows
+
+</td>
+
+<td width="20%" valign="top">
+
+### 🤖 AI Technologies
+
+- PyTorch
+- MLflow
+- HuggingFace
+- LangChain
+- Vector Databases
+- RAG Systems
+- Dataset Versioning
+- Model Evaluation
+
+</td>
+
+</tr>
+</table>
 ---
 
-### AI Technologies
+## Current Focus · Open Source · Engineering Principles
 
-PyTorch · MLflow · HuggingFace · Dataset Versioning · Model Evaluation · LangChain · Vector Databases · RAG Systems
+<table>
+<tr>
 
----
+<td width="33%" valign="top">
 
-## Engineering Principles
-
-- Build before optimize
-- Documentation is part of development
-- Prefer deployment over prototypes
-- Learn through systems instead of tutorials
-
----
-
-## Current Focus
+### 🚀 Current Focus
 
 Currently building:
 
-- production RAG systems
+- Production RAG systems
 - AI deployment workflows
-- observability systems
-- automation pipelines
+- Observability systems
+- Automation pipelines
 - AI infrastructure projects
 
 Currently exploring through implementation:
 
 - LangGraph workflows
-- distributed messaging patterns
-- production reliability systems
+- Distributed messaging patterns
+- Production reliability systems
 
----
+</td>
 
-## Open Source Direction
+<td width="33%" valign="top">
+
+### 🌍 Open Source Direction
 
 Current contribution targets:
 
@@ -215,11 +294,31 @@ Current contribution targets:
 
 Contribution goals:
 
-- documentation improvements
-- workflow examples
-- issue fixes
-- infrastructure tooling
+- Documentation improvements
+- Workflow examples
+- Issue fixes
+- Infrastructure tooling
 
+</td>
+
+<td width="33%" valign="top">
+
+### ⚙️ Engineering Principles
+
+- Build before optimize
+
+- Documentation is part of development
+
+- Prefer deployment over prototypes
+
+- Learn through systems instead of tutorials
+
+- Ship → observe → improve
+
+</td>
+
+</tr>
+</table>
 ---
 
 ## Connect
