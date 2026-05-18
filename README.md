@@ -1,135 +1,131 @@
 # Sriharsha Reddy Adapala 👋
 
-**AI Infrastructure Engineer** | B.Tech CSE 2025 | Hyderabad, India
+**AI Infrastructure Engineer | Cloud • DevOps • MLOps**  
+B.Tech CSE 2025 · Hyderabad, India
 
 Building AI systems from **model development → deployment → monitoring → automation**
 
-Focused on creating production-oriented systems using **Python, AWS, Docker, FastAPI, MLOps, and cloud-native workflows**
+Focused on creating production-oriented systems using cloud-native infrastructure, MLOps workflows, and scalable AI deployment practices.
 
 ---
 
 ## About Me
 
-I started with AI and Computer Vision projects, then realized models alone are not enough.
+I started with AI and Computer Vision projects and gradually realized models alone are not enough.
 
-That led me into cloud infrastructure, deployment pipelines, monitoring, automation, and MLOps practices.
+That pushed me toward infrastructure, deployment pipelines, monitoring systems, automation workflows, and production engineering practices.
 
-Now I focus on building systems that don't stop at model training — systems that can be deployed, observed, maintained, and improved in production environments.
+Today my focus is building systems that move beyond notebooks and experiments — systems that can be deployed, observed, maintained, and improved in real environments.
 
-Current direction:
+Current focus:
 
 - AI Infrastructure
-- MLOps Systems
-- Cloud-native AI deployment
-- Production workflows
+- Production AI systems
+- MLOps workflows
+- Cloud-native deployment
 - Monitoring and automation
 
 ---
 
 ## Featured Projects
 
-### 🎭 DeepSynth — Deepfake Detection System
+### 🔧 ModelUp — AI Deployment Platform
 
-Multimodal deepfake detection using video and audio analysis pipelines.
+CLI-based deployment platform that wraps HuggingFace models into FastAPI services and deployable Docker containers.
 
-**Stack**
-
-PyTorch · OpenCV · HuggingFace · AWS
+**Stack**  
+Python · FastAPI · Docker · HuggingFace
 
 **Focus**
 
-- video feature extraction
-- audio signal analysis
-- model training pipeline
-- evaluation workflow
-
-Repository:
-<repo-link>
-
----
-
-### 🔧 ModelUp — AI Deployment Platform
-
-CLI-based deployment platform that wraps HuggingFace models inside FastAPI services and deployable Docker containers.
-
-**Stack**
-
-Python · FastAPI · Docker · HuggingFace
-
-**Features**
-
 - model wrapping automation
 - API endpoint generation
-- local chatbot interface
+- local inference interface
 - containerized deployment workflow
 
 **Lessons learned**
 
-Current architecture exposed scaling and orchestration limitations, which pushed me toward studying production AI infrastructure patterns.
+The initial architecture exposed scaling and orchestration limitations, which pushed me toward studying production AI infrastructure patterns.
 
-Repository:
-<repo-link>
-
----
-
-### 🏭 Defect Detection — MLOps Pipeline
-
-Industrial defect detection system focused on data versioning, model lifecycle workflows, and evaluation pipelines.
-
-**Stack**
-
-PyTorch · MLflow · AWS · Dataset Versioning
-
-**Focus**
-
-- dataset handling
-- model validation
-- model evaluation
-- retraining workflow
-- experimentation pipeline
-
-Repository:
-<repo-link>
+Repository:  
+https://github.com/Sriharshareddy6464/ai-infrastructure-platform
 
 ---
 
 ### 🏥 Doc on Call — Real-Time Consultation Platform
 
-Real-time doctor-patient communication platform using WebRTC and cloud deployment architecture.
+Real-time doctor–patient communication platform using WebRTC and cloud deployment architecture.
 
-**Stack**
-
+**Stack**  
 Next.js · AWS · Docker · WebRTC
 
 **Focus**
 
-- low-latency communication
-- infrastructure deployment
-- cloud architecture
-- real-time workflows
+- real-time communication
+- cloud deployment workflows
+- infrastructure design
+- low-latency systems
 
-Repository:
-<repo-link>
+Repository:  
+https://github.com/Sriharshareddy6464/Doctor-Patient-App
 
 ---
 
 ### ⚙️ Madan — Inquiry Automation System
 
-Business workflow system for inquiry handling, WhatsApp automation, and retrieval-assisted scheduling.
+Business workflow system focused on inquiry handling, WhatsApp automation, and retrieval-assisted scheduling.
 
-**Stack**
-
+**Stack**  
 FastAPI · n8n · LangChain · AWS
 
-**Current work**
+**Current Work**
 
 - business website
-- WhatsApp automation
-- scheduling workflow
+- WhatsApp workflow automation
+- scheduling pipeline
 - retrieval-assisted responses
 
-Repository:
-<repo-link>
+Repository:  
+Private repository — public case study coming soon
+
+---
+
+### 🏭 Defect Detection — MLOps Pipeline
+
+Industrial defect detection workflow focused on dataset versioning, validation, experimentation, and model lifecycle management.
+
+**Stack**  
+PyTorch · MLflow · AWS · Dataset Versioning
+
+**Focus**
+
+- dataset handling
+- validation workflow
+- model evaluation
+- retraining lifecycle
+- experimentation pipeline
+
+Repository:  
+https://github.com/Sriharshareddy6464/defect_detection
+
+---
+
+### 🎭 DeepSynth — Deepfake Detection System
+
+Multimodal deepfake detection using video and audio analysis pipelines.
+
+**Stack**  
+PyTorch · OpenCV · HuggingFace · AWS
+
+**Focus**
+
+- video feature extraction
+- audio analysis
+- training workflow
+- model evaluation
+
+Repository:  
+https://github.com/Sriharshareddy6464/DeepSynth
 
 ---
 
@@ -139,21 +135,21 @@ Repository:
 
 Python · JavaScript · SQL · Bash
 
-### Backend
+---
 
-FastAPI · Node.js · PostgreSQL
+### Web Technologies
 
-### Frontend
+FastAPI · React · Next.js · Vite · TailwindCSS · PostgreSQL · REST APIs · Framer Motion
 
-React · Next.js · Vite.js · TailwindCSS · Framer motion · GSAP
+---
 
-### Cloud Infrastructure (AWS)
+### Cloud Technologies
 
 **Compute**  
 EC2 · ECS · EKS · Lambda · Docker
 
 **Networking & Delivery**  
-VPC · Route 53 · API Gateway · Load Balancer · CloudFront · Nginx
+VPC · API Gateway · Route 53 · Load Balancer · CloudFront · Nginx
 
 **Database & Storage**  
 RDS · PostgreSQL · S3
@@ -162,25 +158,31 @@ RDS · PostgreSQL · S3
 Redis · ElastiCache
 
 **Security & Access**  
-IAM · Security Groups · Secrets Management
+IAM · Security Groups
 
-**Scalability & Distributed Systems**  
+**Distributed Systems & Scalability**  
 SQS · SNS · Auto Scaling · Event-driven workflows
 
 **Monitoring & Observability**  
 CloudWatch · Prometheus · Grafana
 
-### DevOps
+**Infrastructure & Automation**  
+Terraform · GitHub Actions · Kubernetes
 
-Docker · Terraform · GitHub Actions · Kubernetes
+---
 
-### Monitoring
+### AI Technologies
 
-Prometheus · Grafana · Evidently AI
+PyTorch · MLflow · HuggingFace · Dataset Versioning · Model Evaluation · LangChain · Vector Databases · RAG Systems
 
-### AI / MLOps
+---
 
-PyTorch · MLflow · HuggingFace · Dataset Versioning · Model Evaluation
+## Engineering Principles
+
+- Build before optimize
+- Documentation is part of development
+- Prefer deployment over prototypes
+- Learn through systems instead of tutorials
 
 ---
 
@@ -190,35 +192,33 @@ Currently building:
 
 - production RAG systems
 - AI deployment workflows
-- monitoring and observability
+- observability systems
 - automation pipelines
-- AI infrastructure systems
+- AI infrastructure projects
 
-Currently learning through implementation:
+Currently exploring through implementation:
 
-- LangChain
-- LangGraph
-- Redis
-- queues and event workflows
-- production reliability patterns
+- LangGraph workflows
+- distributed messaging patterns
+- production reliability systems
 
 ---
 
-## Open Source Goals
+## Open Source Direction
 
-Actively improving project quality and beginning open-source contributions through:
+Current contribution targets:
+
+- FastAPI ecosystem
+- n8n workflows
+- LangChain ecosystem
+- MLOps communities
+
+Contribution goals:
 
 - documentation improvements
 - workflow examples
-- bug fixes
-- AI infrastructure tooling
-
-Interested communities:
-
-- FastAPI
-- n8n
-- LangChain ecosystem
-- MLOps communities
+- issue fixes
+- infrastructure tooling
 
 ---
 
@@ -230,11 +230,11 @@ https://adapalasriharshareddy.online
 📧 Email  
 adapalasriharshareddy@gmail.com
 
-💼 LinkedIn  
-<link>
-
 🐱 GitHub  
 https://github.com/Sriharshareddy6464
+
+💼 LinkedIn  
+<your-link>
 
 ---
 
