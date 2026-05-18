@@ -1,46 +1,248 @@
-# Hey, I'm Sriharsha 👋
+# Sriharsha Reddy Adapala 👋
 
-Fresher · B.Tech CSE 2025 · Hyderabad
+**AI Infrastructure Engineer** | B.Tech CSE 2025 | Hyderabad, India
 
-I build **end-to-end systems** — from AI models to production infrastructure.  
-Focused on **AWS cloud architecture, DevOps automation, AI model deployment, monitoring, and MLOps pipelines**.
+Building AI systems from **model development → deployment → monitoring → automation**
 
-Not a course collector. **I ship working systems.**
-
----
-
-## 🔨 What I've shipped
-
-| Domain | Project | What it does | Stack |
-|---|---|---|---|
-| AI + Computer Vision | [**DeepSynth**](https://github.com/Sriharshareddy6464/DeepSynth) | Deepfake detection using video and audio signal analysis | PyTorch · OpenCV · HuggingFace · AWS |
-| DevOps + Cloud | [**Creorez**](https://github.com/Sriharshareddy6464/creorez) | AI resume generator converting structured input to LaTeX PDF | Node.js · Docker · AWS ECS · GitHub Actions |
-| Fullstack + Cloud | [**SupplyChain App**](https://github.com/Sriharshareddy6464/supplychain_app/tree/dev) | Multi-role B2B platform connecting kitchens, suppliers, vendors, and delivery | React · FastAPI · AWS · Terraform |
-| AI + Computer Vision | [**VigilantiAI**](https://github.com/Sriharshareddy6464/vigilantiAI/tree/main) | Driver drowsiness detection using real-time camera monitoring | Python · OpenCV · CNN · PyTorch |
-| DevOps + Monitoring | [**PingWatch**](https://github.com/Sriharshareddy6464/pingwatch_alertbot) | Infrastructure uptime monitoring and alerting system | Python · Docker · Monitoring Stack |
-| AI + MLOps | [**RecurAI**](https://github.com/Sriharshareddy6464/recurAI) | Automated AI model retraining pipeline with monitoring triggers | Python · MLOps Pipeline · AWS |
+Focused on creating production-oriented systems using **Python, AWS, Docker, FastAPI, MLOps, and cloud-native workflows**
 
 ---
 
-## 🛠 Stack
+## About Me
 
-**Languages** · Python · JavaScript · TypeScript · SQL · Bash  <br>
+I started with AI and Computer Vision projects, then realized models alone are not enough.
 
-**Frontend** · React · Next.js · Vite · TailwindCSS · Framer Motion  <br>
+That led me into cloud infrastructure, deployment pipelines, monitoring, automation, and MLOps practices.
 
-**Backend** · FastAPI · Django · Flask · Node.js · PostgreSQL  <br>
+Now I focus on building systems that don't stop at model training — systems that can be deployed, observed, maintained, and improved in production environments.
 
-**Cloud Infrastructure** · AWS (Lambda · EC2 · ECS/EKS · VPC · S3 · RDS · IAM · SQS/SNS · cloudwatch)  <br>
+Current direction:
 
-**DevOps** · Docker · Terraform · Kubernetes · GitHub Actions · Jenkins  <br>
-
-**Monitoring** · Prometheus · Grafana · Evidently AI  <br>
-
-**AI / MLOps** · lakeFS · Flyte · MLflow · LangGraph · BentoML · Deepchecks <br>
+- AI Infrastructure
+- MLOps Systems
+- Cloud-native AI deployment
+- Production workflows
+- Monitoring and automation
 
 ---
 
-## 📬 Let's connect
+## Featured Projects
 
-🌐 https://adapalasriharshareddy.online  
-📧 adapalasriharshareddy@gmail.com
+### 🎭 DeepSynth — Deepfake Detection System
+
+Multimodal deepfake detection using video and audio analysis pipelines.
+
+**Stack**
+
+PyTorch · OpenCV · HuggingFace · AWS
+
+**Focus**
+
+- video feature extraction
+- audio signal analysis
+- model training pipeline
+- evaluation workflow
+
+Repository:
+<repo-link>
+
+---
+
+### 🔧 ModelUp — AI Deployment Platform
+
+CLI-based deployment platform that wraps HuggingFace models inside FastAPI services and deployable Docker containers.
+
+**Stack**
+
+Python · FastAPI · Docker · HuggingFace
+
+**Features**
+
+- model wrapping automation
+- API endpoint generation
+- local chatbot interface
+- containerized deployment workflow
+
+**Lessons learned**
+
+Current architecture exposed scaling and orchestration limitations, which pushed me toward studying production AI infrastructure patterns.
+
+Repository:
+<repo-link>
+
+---
+
+### 🏭 Defect Detection — MLOps Pipeline
+
+Industrial defect detection system focused on data versioning, model lifecycle workflows, and evaluation pipelines.
+
+**Stack**
+
+PyTorch · MLflow · AWS · Dataset Versioning
+
+**Focus**
+
+- dataset handling
+- model validation
+- model evaluation
+- retraining workflow
+- experimentation pipeline
+
+Repository:
+<repo-link>
+
+---
+
+### 🏥 Doc on Call — Real-Time Consultation Platform
+
+Real-time doctor-patient communication platform using WebRTC and cloud deployment architecture.
+
+**Stack**
+
+Next.js · AWS · Docker · WebRTC
+
+**Focus**
+
+- low-latency communication
+- infrastructure deployment
+- cloud architecture
+- real-time workflows
+
+Repository:
+<repo-link>
+
+---
+
+### ⚙️ Madan — Inquiry Automation System
+
+Business workflow system for inquiry handling, WhatsApp automation, and retrieval-assisted scheduling.
+
+**Stack**
+
+FastAPI · n8n · LangChain · AWS
+
+**Current work**
+
+- business website
+- WhatsApp automation
+- scheduling workflow
+- retrieval-assisted responses
+
+Repository:
+<repo-link>
+
+---
+
+## Technical Skills
+
+### Languages
+
+Python · JavaScript · SQL · Bash
+
+### Backend
+
+FastAPI · Node.js · PostgreSQL
+
+### Frontend
+
+React · Next.js · Vite.js · TailwindCSS · Framer motion · GSAP
+
+### Cloud Infrastructure (AWS)
+
+**Compute**  
+EC2 · ECS · EKS · Lambda · Docker
+
+**Networking & Delivery**  
+VPC · Route 53 · API Gateway · Load Balancer · CloudFront · Nginx
+
+**Database & Storage**  
+RDS · PostgreSQL · S3
+
+**Caching & Performance**  
+Redis · ElastiCache
+
+**Security & Access**  
+IAM · Security Groups · Secrets Management
+
+**Scalability & Distributed Systems**  
+SQS · SNS · Auto Scaling · Event-driven workflows
+
+**Monitoring & Observability**  
+CloudWatch · Prometheus · Grafana
+
+### DevOps
+
+Docker · Terraform · GitHub Actions · Kubernetes
+
+### Monitoring
+
+Prometheus · Grafana · Evidently AI
+
+### AI / MLOps
+
+PyTorch · MLflow · HuggingFace · Dataset Versioning · Model Evaluation
+
+---
+
+## Current Focus
+
+Currently building:
+
+- production RAG systems
+- AI deployment workflows
+- monitoring and observability
+- automation pipelines
+- AI infrastructure systems
+
+Currently learning through implementation:
+
+- LangChain
+- LangGraph
+- Redis
+- queues and event workflows
+- production reliability patterns
+
+---
+
+## Open Source Goals
+
+Actively improving project quality and beginning open-source contributions through:
+
+- documentation improvements
+- workflow examples
+- bug fixes
+- AI infrastructure tooling
+
+Interested communities:
+
+- FastAPI
+- n8n
+- LangChain ecosystem
+- MLOps communities
+
+---
+
+## Connect
+
+🌐 Portfolio  
+https://adapalasriharshareddy.online
+
+📧 Email  
+adapalasriharshareddy@gmail.com
+
+💼 LinkedIn  
+<link>
+
+🐱 GitHub  
+https://github.com/Sriharshareddy6464
+
+---
+
+Open to:
+
+AI Infrastructure Engineer  
+MLOps Engineer  
+Cloud + AI roles  
+Backend AI Systems roles
+
+Open to remote and relocation
