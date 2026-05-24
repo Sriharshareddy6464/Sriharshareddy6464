@@ -5,8 +5,6 @@ B.Tech CSE 2025 · Hyderabad, India
 
 Building AI systems from **model development → deployment → monitoring → automation**
 
-Focused on creating production-oriented systems using cloud-native infrastructure, MLOps workflows, and scalable AI deployment practices.
-
 ---
 
 ## About Me
@@ -20,7 +18,7 @@ Today my focus is building systems that move beyond notebooks and experiments �
 Current focus:
 
 - AI Infrastructure
-- Production AI systems
+- CV AI systems
 - MLOps workflows
 - Cloud-native deployment
 - Monitoring and automation
@@ -246,6 +244,7 @@ Event-driven workflows
 - HuggingFace
 - LangChain
 - Vector Databases
+- LLM's
 - RAG Systems
 - Dataset Versioning
 - Model Evaluation
@@ -268,7 +267,7 @@ Event-driven workflows
 Currently building:
 
 - Production RAG systems
-- AI deployment workflows
+- AI Productivity tracker
 - Observability systems
 - Automation pipelines
 - AI infrastructure projects
